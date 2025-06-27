@@ -15,7 +15,7 @@
               "state": {
                 "file": "Nginx/nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13"
@@ -165,7 +165,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "68ae438abb6ae008",
+  "active": "15f924a65ee09d5b",
   "lastOpenFiles": [
     "Nginx/nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13.md",
     "Nginx/nginxpics/Рисунок9.png",
