@@ -15,7 +15,7 @@
               "state": {
                 "file": "Nginx/nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13"
@@ -165,19 +165,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "15f924a65ee09d5b",
+  "active": "68ae438abb6ae008",
   "lastOpenFiles": [
     "Nginx/nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13.md",
-    "Nginx/nginxpics/Рисунок 9.png",
-    "Nginx/nginxpics/Рисунок 8.png",
-    "Nginx/nginxpics/Рисунок 7.png",
-    "Nginx/nginxpics/Рисунок 6.png",
-    "Nginx/nginxpics/Рисунок 5.png",
-    "Nginx/nginxpics/Рисунок 4.png",
-    "Nginx/nginxpics/Рисунок 3.png",
-    "Nginx/nginxpics/Рисунок 26.png",
-    "Nginx/nginxpics/Рисунок 25.png",
-    "Nginx/nginxpics/Рисунок 24.png",
+    "Nginx/nginxpics/Рисунок9.png",
+    "Nginx/nginxpics/Рисунок8.png",
+    "Nginx/nginxpics/Рисунок7.png",
+    "Nginx/nginxpics/Рисунок6.png",
+    "Nginx/nginxpics/Рисунок5.png",
+    "Nginx/nginxpics/Рисунок4.png",
+    "Nginx/nginxpics/Рисунок3.png",
+    "Nginx/nginxpics/Рисунок26.png",
+    "Nginx/nginxpics/Рисунок25.png",
+    "Nginx/nginxpics/Рисунок24.png",
     "Nginx/nginxpics",
     "Nginx"
   ]
