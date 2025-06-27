@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2fdeed61505cb7",
+        "id": "404cb875865f7216",
         "type": "tabs",
         "children": [
           {
-            "id": "6eec22166cdd42e9",
+            "id": "15f924a65ee09d5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6eec22166cdd42e9",
+  "active": "15f924a65ee09d5b",
   "lastOpenFiles": [
+    "Nginx/nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13.md",
     "Nginx/nginxpics/Рисунок 9.png",
     "Nginx/nginxpics/Рисунок 8.png",
     "Nginx/nginxpics/Рисунок 7.png",
@@ -177,9 +178,7 @@
     "Nginx/nginxpics/Рисунок 26.png",
     "Nginx/nginxpics/Рисунок 25.png",
     "Nginx/nginxpics/Рисунок 24.png",
-    "Nginx/nginxpics/Рисунок 23.png",
     "Nginx/nginxpics",
-    "Nginx/nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13.md",
     "Nginx"
   ]
 }
