@@ -11,10 +11,14 @@
             "id": "6eec22166cdd42e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Nginx/nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "nginx — безопасная установка, настройка и запуск веб-страницы на macOS 13"
             }
           }
         ]
