@@ -367,4 +367,4 @@ sudo cp /opt/homebrew/etc/nginx/nginx.conf.backup /opt/homebrew/etc/nginx/nginx.
 - В правом нижнем углу кликнуть на кодировку (должно быть: **UTF-8**).
 - Если указана другая, то нажать **Save with Encoding** → **UTF-8**.
 
-1. Проверить наличие мета-тега **<mеta charset="UTF-8">** в **<hеad>**.
+2. Проверить наличие мета-тега **<mеta charset="UTF-8">** в **<hеad>**.
